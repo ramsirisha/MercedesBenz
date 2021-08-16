@@ -30,6 +30,6 @@ Please follow below instructions before executing Mercedes Benz automation scrip
 •	Selects Body Type based on value provided for “BodyType” in data.xlsx file.
 •	Selects one Vehicle from the list and navigates to product’s details page.
 •	Clicks on Contact Me button.
-•	Verifies if “Contacts details” popup is displayed and fills in required details in it.
+•	Verifies if “Contacts details” popup is displayed and fills in required details based on information provided in "data.xlsx" file
 •	Verifies if “Proceed” button is enabled.
 ```

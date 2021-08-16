@@ -1,0 +1,19 @@
+2021-08-16 11:49:11,475 [main] INFO  org.mercedes.resources.base - Launching chrome browser
+2021-08-16 11:49:11,653 [main] INFO  org.benz.testscripts.benzTest - Driver is launched
+2021-08-16 11:49:12,521 [main] INFO  org.benz.testscripts.benzTest - Launching Mercedes Benz URL:https://shop.mercedes-benz.com/en-th/shop/vehicle/srp
+2021-08-16 11:49:20,123 [main] INFO  org.mercedes.pages.homePage - Successfully handled Messenger
+2021-08-16 11:49:20,228 [main] INFO  org.benz.testscripts.benzTest - Cookies dialog appears
+2021-08-16 11:49:20,335 [main] INFO  org.benz.testscripts.benzTest - Accept cookies button is visible
+2021-08-16 11:49:20,710 [main] INFO  org.benz.testscripts.benzTest - Clicked on Accept cookies button
+2021-08-16 11:49:22,047 [main] INFO  org.benz.testscripts.benzTest - Body type provided in test data file is:Sedan
+2021-08-16 11:49:22,297 [main] INFO  org.benz.testscripts.benzTest - Body Type Sedan selected
+2021-08-16 11:49:26,134 [main] INFO  org.mercedes.pages.homePage - Selected Vehicle from search results
+2021-08-16 11:49:26,134 [main] INFO  org.benz.testscripts.benzTest - Clicked on More details button
+2021-08-16 11:49:28,188 [main] INFO  org.benz.testscripts.benzTest - Clicked on Contact Me button
+2021-08-16 11:49:28,296 [main] INFO  org.benz.testscripts.benzTest - Contact Details Popup appears
+2021-08-16 11:49:28,658 [main] INFO  org.benz.testscripts.benzTest - Entered First Name
+2021-08-16 11:49:28,900 [main] INFO  org.benz.testscripts.benzTest - Entered Last Name
+2021-08-16 11:49:29,110 [main] INFO  org.benz.testscripts.benzTest - Entered Email Address
+2021-08-16 11:49:29,277 [main] INFO  org.benz.testscripts.benzTest - Entered Mobile Number
+2021-08-16 11:49:29,354 [main] INFO  org.benz.testscripts.benzTest - Selected accept privacy policy checkbox
+2021-08-16 11:49:29,447 [main] INFO  org.benz.testscripts.benzTest - Proceed button is not enabled

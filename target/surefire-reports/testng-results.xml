@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="20616" started-at="2021-08-16T03:49:09Z" finished-at="2021-08-16T03:49:30Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="20616" started-at="2021-08-16T03:49:09Z" finished-at="2021-08-16T03:49:30Z">
+      <class name="org.benz.testscripts.benzTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:org.benz.testscripts.benzTest@411f53a0]" name="initialize" is-config="true" duration-ms="2086" started-at="2021-08-16T11:49:09Z" finished-at="2021-08-16T11:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="mercedesBenzPageNavigation()[pri:0, instance:org.benz.testscripts.benzTest@411f53a0]" name="mercedesBenzPageNavigation" duration-ms="17785" started-at="2021-08-16T11:49:11Z" finished-at="2021-08-16T11:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mercedesBenzPageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:org.benz.testscripts.benzTest@411f53a0]" name="teardown" is-config="true" duration-ms="721" started-at="2021-08-16T11:49:29Z" finished-at="2021-08-16T11:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.benz.testscripts.benzTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

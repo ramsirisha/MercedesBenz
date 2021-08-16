@@ -13,7 +13,7 @@ Please follow below instructions before executing Mercedes Benz automation scrip
 		Logging: Log4j2
 •	Update the browser value to chrome/edge in “data.properties” file- 
 		Path: \src\main\java\org.mercedes\resources\data.properties
-•	Run “testng.xml” file to execute the automation script – Path:\Selenium\IdeaProjects\MercedesBenz\testng.xml
+•	Run “testng.xml” file to execute the automation script – Path:\MercedesBenz\testng.xml
 •	Refer to test data excel file to update details such as Body Type, First Name, Last Name etc - Path :\src\main\java\org.mercedes\resources\testdata\data.xlsx
 •	Refer to "benzTest.java" for test script - Path: \src\test\java\org.benz\testscripts
 •	Path to refer to Page classes - Path: \src\main\java\org.mercedes\pages
